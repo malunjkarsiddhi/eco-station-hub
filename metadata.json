@@ -1,0 +1,7 @@
+{
+  "name": "Eco-Station Hub",
+  "description": "A high-performance EV Charging Station Management System featuring real-time monitoring, analytics, and an AI-driven backend code generator to bridge Java/JDBC/MySQL logic with modern UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
